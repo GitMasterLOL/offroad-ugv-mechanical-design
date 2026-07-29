@@ -14,9 +14,9 @@ TRAKR-rover/
 ├── README.md               ← you are here
 ├── Assembly/
 │   ├── 3D_files/                Files of 3D printed components
-│   ├── assembly.step/                
-│   ├── assembly.stl/                
-│   └── renders/                 Pictures of assemblies and certain important components
+│   ├── final_assembly.step              
+│   ├── final_assembly.stl                
+│   └── pictures/                 Pictures of assemblies and certain important components
 └── drawings/                    dimensioned PDFs for anything fabricated
 ```
 
