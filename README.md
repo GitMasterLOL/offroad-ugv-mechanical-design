@@ -4,6 +4,8 @@ My work as Mechatronics Intern at Vrishchik Technologies
 ---
 ## What this is
 
+![assembly isometric view](./Assembly/pictures/assembly_iso.png)
+
 This is a four wheeled trailing arm UGV designed for offroad logistics, developed at Vrishchik Technologies LLP. This repository is the **mechanical design report** containing CAD exports, renders, and drawings.
 
 ---
