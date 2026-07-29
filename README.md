@@ -13,30 +13,29 @@ This is a four wheeled trailing arm UGV designed for offroad logistics, develope
 ## My role
 
 As the Mechatronics Intern on this project, I worked on:
-- Trailing arm suspension design — kinematics, bearing selection, coilover sizing
-- Rear axle design — load case definition, stress analysis, material selection
-- Chain drive sprocket mounting — evaluating mounting methods for manufacturability
-- Chassis and mount design for onboard electronics
-
-*(Edit this list to match exactly what you owned vs. what was collaborative — worth being precise here for interviews.)*
+- Chassis load analysis, material selection, geometry analysis, design, structural analysis, and manufacturing 
+- Trailing arm suspension kinematics, bearing selection, coilover sizing, design, and manufacturing
+- Axle load case definition, stress analysis, material selection
+- Evaluating chain drive sprocket mounting methods for manufacturability
+- Chassis and mount design for onboard power and electronics
 
 ---
 ## Skills & tools demonstrated
 
-- **CAD:** OnShape — parametric assemblies, dimensioned drawings for fabrication
+- **CAD:** OnShape (parametric assemblies, dimensioned drawings for fabrication)
 - **Suspension kinematics:** motion ratio calculation and tuning to hit a target wheel travel
-- **Structural analysis:** von Mises stress and fatigue factor-of-safety calculation for axle sizing
-- **DFM / mounting trade-offs:** compared taper-lock vs. partial keyway mounting for the drive sprocket
-- **Manufacturing-aware design:** parts designed across 3D printing, CNC, laser cutting, and sheet metal bending
+- **Structural analysis:** stress and fatigue factor-of-safety calculation for axle sizing
+- **DFM:** parts designed for minimal manufacturing complexity and cost
+- **Manufacturing-aware design:** parts designed across 3D printing, CNC, laser cutting, and metal sheet bending
 
 ---
 ## Design highlights
 
-**Trailing arm suspension** — UCF205 pillow block bearings, ATV coilover shocks, ~170mm wheel travel, motion ratio ≈ 0.29
+**Chassis:** Aluminium T-Slot extrusions for weight management and rigidity (against bending and compression)
 
-**Rear axle** — C45 steel, von Mises stress ≈ 46.5 MPa under design load, fatigue FoS ≈ 2.4
+**Trailing arm suspension:** UCF205 pillow block bearings, ATV coilover shocks, ~200mm wheel travel
 
-**Chain drive mounting** — evaluated taper-lock and partial keyway options for the sprocket mount before settling on a final approach
+**Rear axle:** 304 stainless steel, fatigue FoS ≈ 2.4
 
 ---
 ## Repository map
